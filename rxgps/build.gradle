@@ -36,9 +36,9 @@ afterEvaluate {
     publishing{
         publications{
             release(MavenPublication){
-                groupId = "com.github.heshamawedOnMarkets"
-                artifactId = "rxgpsrefactor"
-                version = "1.0"
+                groupId = "com.github.onmarkets"
+                artifactId = "rxgps"
+                version = "1.0.0"
             }
         }
     }
